@@ -1,0 +1,16 @@
+	Imagery:
+
+Skybox 		- Headgehog team 	- https://assetstore.unity.com/packages/2d/textures-materials/sky/skysphere-volume-1-4042
+
+	Sounds:
+
+Menu Music 	- Eric Matyas 		- https://www.dl-sounds.com/royalty-free/category/game-film/video-game/
+Game Music 	- Motivated 		- https://www.dl-sounds.com/royalty-free/category/game-film/video-game/
+UI click   	- GameDevC 		- https://freesound.org/people/GameDevC/sounds/422836/
+Car crash  	- Squareal 		- https://freesound.org/people/squareal/sounds/237375/
+Car sound  	- Andrew Alexander 	- https://freesound.org/people/AndrewAlexander/sounds/369053/ 
+Crash life lost - Micheal Koehler 	- https://freesound.org/people/michaelkoehler/sounds/201953/
+pickup sound 	- Treasure sounds 	- https://freesound.org/people/TreasureSounds/sounds/332629/ 
+Jump sound 	- InspectorJ 		- https://freesound.org/people/InspectorJ/sounds/411493/ 
+shield sound 	- Runningmind 		- https://freesound.org/people/runningmind/sounds/363172/
+shield lost 	- CTCollab 		- https://freesound.org/people/CTCollab/sounds/223630/
